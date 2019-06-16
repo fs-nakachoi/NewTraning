@@ -1,0 +1,17 @@
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableInsert\bin\Debug\VbTableInsert.exe.config
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableInsert\bin\Debug\VbTableInsert.exe
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableInsert\bin\Debug\VbTableInsert.pdb
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableInsert\bin\Debug\VbTableInsert.xml
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableInsert\bin\Debug\BouncyCastle.Crypto.dll
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableInsert\bin\Debug\Google.Protobuf.dll
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableInsert\bin\Debug\MySql.Data.dll
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableInsert\bin\Debug\Google.Protobuf.xml
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableInsert\bin\Debug\MySql.Data.xml
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableInsert\obj\Debug\VbTableInsert.Resources.resources
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableInsert\obj\Debug\VbTableInsert.vbproj.GenerateResource.cache
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableInsert\obj\Debug\VbTableInsert.vbproj.CoreCompileInputs.cache
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableInsert\obj\Debug\VbTableInsert.vbproj.CopyComplete
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableInsert\obj\Debug\VbTableInsert.exe
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableInsert\obj\Debug\VbTableInsert.xml
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableInsert\obj\Debug\VbTableInsert.pdb
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableInsert\obj\Debug\VbTableInsert.vbprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableSelect\bin\Debug\VbTableSelect.exe.config
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableSelect\bin\Debug\VbTableSelect.exe
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableSelect\bin\Debug\VbTableSelect.pdb
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableSelect\bin\Debug\VbTableSelect.xml
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableSelect\bin\Debug\BouncyCastle.Crypto.dll
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableSelect\bin\Debug\Google.Protobuf.dll
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableSelect\bin\Debug\MySql.Data.dll
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableSelect\bin\Debug\Google.Protobuf.xml
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableSelect\bin\Debug\MySql.Data.xml
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableSelect\obj\Debug\VbTableSelect.Resources.resources
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableSelect\obj\Debug\VbTableSelect.vbproj.GenerateResource.cache
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableSelect\obj\Debug\VbTableSelect.vbproj.CoreCompileInputs.cache
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableSelect\obj\Debug\VbTableSelect.vbproj.CopyComplete
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableSelect\obj\Debug\VbTableSelect.exe
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableSelect\obj\Debug\VbTableSelect.xml
+C:\@MyRoom\@Study\VisualBasic\VbTraining01\VbTableSelect\obj\Debug\VbTableSelect.pdb
